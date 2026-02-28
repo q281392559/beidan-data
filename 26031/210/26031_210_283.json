@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-01T02:14:13+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "283",
+      "home_team": "瓦埃勒",
+      "away_team": "奥胡斯",
+      "league_name": "25-26丹超",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-01T23:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:14:13.814923487+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:38:44.568474Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:38:44.568474Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
