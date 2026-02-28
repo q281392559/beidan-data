@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T23:00:26+08:00",
+  "generated_at": "2026-02-28T23:01:46+08:00",
   "source": "北单彩票数据",
   "period_no": "26026",
   "records": [
@@ -42,7 +42,27 @@
           "odds_type": "negative"
         }
       ]
+    },
+    {
+      "game_id": 260,
+      "period_no": "26026",
+      "match_no": "3",
+      "home_team": "国际米兰",
+      "away_team": "博德闪耀",
+      "league_name": "欧冠联赛",
+      "match_time": "2026-02-24 10:00:00",
+      "end_time": "2026-02-25 03:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-02-28T22:57:26.767139474+08:00",
+      "odds": [
+        {
+          "option_key": "1:2",
+          "odds_value": -25.142857,
+          "odds_type": "negative"
+        }
+      ]
     }
   ],
-  "total_count": 2
+  "total_count": 3
 }
