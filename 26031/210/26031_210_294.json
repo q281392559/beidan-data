@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-01T02:24:16+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "294",
+      "home_team": "波兹南莱赫",
+      "away_team": "琴斯托霍瓦",
+      "league_name": "25-26波兰甲",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-02T00:25:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:24:16.990763852+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:41:44.564765Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:41:44.564765Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
