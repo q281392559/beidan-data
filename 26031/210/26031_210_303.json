@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-01T02:13:34+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "303",
+      "home_team": "佩纳菲耶尔",
+      "away_team": "本菲卡B队",
+      "league_name": "25-26葡甲",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-02T01:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:13:34.772090448+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T10:35:44.468012Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T10:35:44.468012Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
