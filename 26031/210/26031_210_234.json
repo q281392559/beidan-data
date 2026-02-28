@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-03-01T02:16:49+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "234",
+      "home_team": "韦纳穆",
+      "away_team": "卡尔马",
+      "league_name": "瑞典杯",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-01T19:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:16:49.564190239+08:00",
+      "odds": [
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:35:44.519825Z"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:35:44.519825Z"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T23:09:48.768982Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T23:09:48.768982Z"
+        },
+        {
+          "option_key": "上单",
+          "odds_value": 1305.43,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T23:09:48.768982Z"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-01T01:38:39.789559Z"
+        },
+        {
+          "option_key": "上单",
+          "odds_value": 1307.43,
+          "odds_type": "positive",
+          "collect_time": "2026-03-01T01:38:39.789559Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 1.99,
+          "odds_type": "positive",
+          "collect_time": "2026-03-01T01:38:39.789559Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
