@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-03-01T03:40:16+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 260,
+      "period_no": "26031",
+      "match_no": "43",
+      "home_team": "冈山绿雉",
+      "away_team": "名古屋鲸",
+      "league_name": "J1联赛",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-01T12:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T03:40:16.92137088+08:00",
+      "odds": [
+        {
+          "option_key": "0:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:26:44.378318Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:26:44.378318Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:26:44.378318Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T19:15:44.377255Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 4,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T19:15:44.377255Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 4,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T19:15:44.377255Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
