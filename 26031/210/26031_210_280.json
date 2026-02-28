@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-01T02:22:06+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "280",
+      "home_team": "哥本哈根",
+      "away_team": "兰讷斯",
+      "league_name": "25-26丹超",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-01T23:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:22:06.342724561+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:44:44.590708Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:44:44.590708Z"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T22:53:36.583883Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 1.99,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T22:53:36.583883Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
