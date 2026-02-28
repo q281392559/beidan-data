@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-01T02:13:39+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "301",
+      "home_team": "卡萨皮亚",
+      "away_team": "摩雷伦斯",
+      "league_name": "25-26葡超",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-02T01:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:13:39.215173903+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:53:44.521214Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T11:53:44.521214Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
