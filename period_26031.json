@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T23:48:01+08:00",
+  "generated_at": "2026-02-28T23:48:39+08:00",
   "source": "北单彩票数据",
   "period_no": "26031",
   "records": [
@@ -2777,7 +2777,27 @@
           "odds_type": "negative"
         }
       ]
+    },
+    {
+      "game_id": 250,
+      "period_no": "26031",
+      "match_no": "23",
+      "home_team": "克莱蒙",
+      "away_team": "敦刻尔克",
+      "league_name": "25-26法乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-02-28T22:57:01.939178837+08:00",
+      "odds": [
+        {
+          "option_key": "2:1",
+          "odds_value": -15.680638,
+          "odds_type": "negative"
+        }
+      ]
     }
   ],
-  "total_count": 100
+  "total_count": 101
 }
