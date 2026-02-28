@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T00:27:36+08:00",
+  "generated_at": "2026-03-01T00:28:24+08:00",
   "source": "北单彩票数据",
   "period_no": "26031",
   "records": [
@@ -3332,7 +3332,267 @@
           "odds_type": "positive"
         }
       ]
+    },
+    {
+      "game_id": 270,
+      "period_no": "26031",
+      "match_no": "172",
+      "home_team": "安特卫普",
+      "away_team": "圣特赖登",
+      "league_name": "25-26比甲",
+      "match_time": "2026-02-28 10:00:00",
+      "end_time": "2026-03-01 01:10:00",
+      "handicap": "0.5",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T00:19:48.720189766+08:00",
+      "odds": [
+        {
+          "option_key": "胜",
+          "odds_value": 2.16,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.85,
+          "odds_type": "positive"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "172",
+      "home_team": "安特卫普",
+      "away_team": "圣特赖登",
+      "league_name": "25-26比甲",
+      "match_time": "2026-02-28 10:00:00",
+      "end_time": "2026-03-01 01:10:00",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T00:19:48.889211765+08:00",
+      "odds": [
+        {
+          "option_key": "3-3",
+          "odds_value": 6.94,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3-1",
+          "odds_value": 18.97,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3-0",
+          "odds_value": 28.91,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1-3",
+          "odds_value": 11.89,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1-1",
+          "odds_value": 7.97,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1-0",
+          "odds_value": 5.87,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0-3",
+          "odds_value": 49.86,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0-1",
+          "odds_value": 19.61,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0-0",
+          "odds_value": 3.14,
+          "odds_type": "positive"
+        }
+      ]
+    },
+    {
+      "game_id": 250,
+      "period_no": "26031",
+      "match_no": "172",
+      "home_team": "安特卫普",
+      "away_team": "圣特赖登",
+      "league_name": "25-26比甲",
+      "match_time": "2026-02-28 10:00:00",
+      "end_time": "2026-03-01 01:10:00",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T00:19:48.903263584+08:00",
+      "odds": [
+        {
+          "option_key": "1:0",
+          "odds_value": 20.98,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": 31.56,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "2:1",
+          "odds_value": 18.91,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3:0",
+          "odds_value": 69.28,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3:1",
+          "odds_value": 36.44,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3:2",
+          "odds_value": 43.58,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "4:0",
+          "odds_value": 146.98,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "4:1",
+          "odds_value": 102.84,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "4:2",
+          "odds_value": 114.52,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "胜其它",
+          "odds_value": 95.53,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 25.05,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 11.93,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "2:2",
+          "odds_value": 16.83,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3:3",
+          "odds_value": 60.2,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "平其它",
+          "odds_value": 281.42,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 13.48,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 15.36,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 10.46,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 20.52,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 12.45,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "2:3",
+          "odds_value": 18.78,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 31.95,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1:4",
+          "odds_value": 22.57,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "2:4",
+          "odds_value": 32.88,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "负其它",
+          "odds_value": 24.39,
+          "odds_type": "positive"
+        }
+      ]
+    },
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "209",
+      "home_team": "巴勒斯坦人",
+      "away_team": "奥伊金斯",
+      "league_name": "智利甲",
+      "match_time": "2026-02-28 10:00:00",
+      "end_time": "2026-03-01 06:00:00",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T00:19:48.72122291+08:00",
+      "odds": [
+        {
+          "option_key": "上单",
+          "odds_value": 7.14,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "上双",
+          "odds_value": 7.63,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 2.96,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2.55,
+          "odds_type": "positive"
+        }
+      ]
     }
   ],
-  "total_count": 100
+  "total_count": 104
 }
