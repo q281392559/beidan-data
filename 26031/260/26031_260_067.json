@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-01T03:39:19+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 260,
+      "period_no": "26031",
+      "match_no": "67",
+      "home_team": "比萨",
+      "away_team": "博洛尼亚",
+      "league_name": "25-26意甲",
+      "match_time": "2026-03-02T10:00:00Z",
+      "end_time": "2026-03-03T01:25:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T03:39:19.080617002+08:00",
+      "odds": [
+        {
+          "option_key": "0:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:29:44.411152Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:29:44.411152Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:29:44.411152Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
