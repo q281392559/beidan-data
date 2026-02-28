@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T01:20:36+08:00",
+  "generated_at": "2026-03-01T01:20:51+08:00",
   "source": "北单彩票数据",
   "period_no": "26031",
   "records": [
@@ -4942,7 +4942,367 @@
           "odds_type": "positive"
         }
       ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "12",
+      "home_team": "杜塞尔多夫",
+      "away_team": "波鸿",
+      "league_name": "25-26德乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:25:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "3-3",
+          "odds_value": -5.886845,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "13",
+      "home_team": "德累斯顿",
+      "away_team": "达姆施塔特",
+      "league_name": "25-26德乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:25:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "3-3",
+          "odds_value": -5.917149,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "14",
+      "home_team": "蒙扎",
+      "away_team": "恩特拉",
+      "league_name": "25-26意乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "1-3",
+          "odds_value": -4.339388,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "15",
+      "home_team": "克卢日大学",
+      "away_team": "加拉茨钢铁",
+      "league_name": "25-26罗甲",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "3-3",
+          "odds_value": -3.491553,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "16",
+      "home_team": "厄尔格里特",
+      "away_team": "米亚尔比",
+      "league_name": "瑞典杯",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "0-0",
+          "odds_value": -2.233308,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "17",
+      "home_team": "奥尔堡",
+      "away_team": "希勒勒",
+      "league_name": "25-26丹甲",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "0-1",
+          "odds_value": -27.241884,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "18",
+      "home_team": "灵比",
+      "away_team": "科灵",
+      "league_name": "25-26丹甲",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "1-3",
+          "odds_value": -4.93559,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "19",
+      "home_team": "B 93",
+      "away_team": "哈维德夫",
+      "league_name": "25-26丹甲",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 01:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "0-0",
+          "odds_value": -3.330149,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "20",
+      "home_team": "贝林佐纳",
+      "away_team": "伊韦尔东体育",
+      "league_name": "25-26瑞士甲",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:25:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "0-0",
+          "odds_value": -3.474902,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "21",
+      "home_team": "波尔图",
+      "away_team": "阿罗卡",
+      "league_name": "25-26葡超",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:40:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "3-3",
+          "odds_value": -1.653837,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "22",
+      "home_team": "巴斯蒂亚",
+      "away_team": "阿讷西",
+      "league_name": "25-26法乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "0-0",
+          "odds_value": -5.611543,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "23",
+      "home_team": "克莱蒙",
+      "away_team": "敦刻尔克",
+      "league_name": "25-26法乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "0-3",
+          "odds_value": -37.900276,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "24",
+      "home_team": "格勒诺布尔",
+      "away_team": "布洛涅",
+      "league_name": "25-26法乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "1-1",
+          "odds_value": -6.131173,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "25",
+      "home_team": "拉瓦勒",
+      "away_team": "南锡",
+      "league_name": "25-26法乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "3-1",
+          "odds_value": -9.480781,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "26",
+      "home_team": "蒙彼利埃",
+      "away_team": "兰斯",
+      "league_name": "25-26法乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "1-1",
+          "odds_value": -6.384967,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "27",
+      "home_team": "特尔斯达",
+      "away_team": "布雷达",
+      "league_name": "25-26荷甲",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "3-3",
+          "odds_value": -5.692316,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "28",
+      "home_team": "奥斯",
+      "away_team": "坎布尔",
+      "league_name": "25-26荷乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "1-0",
+          "odds_value": -4.811412,
+          "odds_type": "negative"
+        }
+      ]
+    },
+    {
+      "game_id": 240,
+      "period_no": "26031",
+      "match_no": "29",
+      "home_team": "瓦尔韦克",
+      "away_team": "FC埃因霍温",
+      "league_name": "25-26荷乙",
+      "match_time": "2026-02-27 10:00:00",
+      "end_time": "2026-02-28 02:55:00",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T01:16:14.929021514+08:00",
+      "odds": [
+        {
+          "option_key": "1-3",
+          "odds_value": -4.781213,
+          "odds_type": "negative"
+        }
+      ]
     }
   ],
-  "total_count": 200
+  "total_count": 218
 }
