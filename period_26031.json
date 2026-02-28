@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T23:04:00+08:00",
+  "generated_at": "2026-02-28T23:04:01+08:00",
   "source": "北单彩票数据",
   "period_no": "26031",
   "records": [
@@ -3002,7 +3002,62 @@
           "odds_type": "positive"
         }
       ]
+    },
+    {
+      "game_id": 230,
+      "period_no": "26031",
+      "match_no": "158",
+      "home_team": "萨拉戈萨",
+      "away_team": "布尔戈斯",
+      "league_name": "25-26西乙",
+      "match_time": "2026-02-28 10:00:00",
+      "end_time": "2026-02-28 23:10:00",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-02-28T23:03:45.915845946+08:00",
+      "odds": [
+        {
+          "option_key": "0",
+          "odds_value": 7.27,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "1",
+          "odds_value": 3.96,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "2",
+          "odds_value": 3.82,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "3",
+          "odds_value": 5.62,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "4",
+          "odds_value": 11.12,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "5",
+          "odds_value": 21.24,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "6",
+          "odds_value": 43.04,
+          "odds_type": "positive"
+        },
+        {
+          "option_key": "7",
+          "odds_value": 90.08,
+          "odds_type": "positive"
+        }
+      ]
     }
   ],
-  "total_count": 100
+  "total_count": 101
 }
