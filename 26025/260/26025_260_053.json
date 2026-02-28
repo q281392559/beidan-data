@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-03-01T05:10:51+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26025",
+  "records": [
+    {
+      "game_id": 260,
+      "period_no": "26025",
+      "match_no": "53",
+      "home_team": "卢多戈雷茨",
+      "away_team": "费伦茨瓦罗斯",
+      "league_name": "欧罗巴联赛",
+      "match_time": "2026-02-13T10:00:00Z",
+      "end_time": "2026-02-13T23:30:00Z",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T05:10:51.043388923+08:00",
+      "odds": [
+        {
+          "option_key": "0:1",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T13:38:51.56405Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T13:38:51.56405Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T13:38:51.56405Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 8,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T20:29:51.536472Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 8,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T20:29:51.536472Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 8,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T20:29:51.536472Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 1.6,
+          "odds_type": "positive",
+          "collect_time": "2026-02-13T20:29:51.536472Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": -8,
+          "odds_type": "negative",
+          "collect_time": "2026-02-24T09:59:48.066023Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
