@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-03-01T02:12:46+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26031",
+      "match_no": "263",
+      "home_team": "莫伦贝克",
+      "away_team": "欧本",
+      "league_name": "25-26比乙",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-01T22:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T02:12:46.480283028+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T10:35:44.468012Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T10:35:44.468012Z"
+        },
+        {
+          "option_key": "上单",
+          "odds_value": 792.04,
+          "odds_type": "positive",
+          "collect_time": "2026-03-01T01:45:54.635129Z"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-01T01:45:54.635129Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-01T01:45:54.635129Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
