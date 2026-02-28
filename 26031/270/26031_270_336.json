@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-03-01T03:40:44+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 270,
+      "period_no": "26031",
+      "match_no": "336",
+      "home_team": "圣帕特里克竞技",
+      "away_team": "戈尔韦联",
+      "league_name": "爱超",
+      "match_time": "2026-03-02T10:00:00Z",
+      "end_time": "2026-03-03T03:40:00Z",
+      "handicap": "-0.5",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T03:40:44.653932342+08:00",
+      "odds": [
+        {
+          "option_key": "胜",
+          "odds_value": 1,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T14:35:44.519235Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.05,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T18:50:44.497219Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 18,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T18:50:44.497219Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.05,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T22:53:36.526221Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 19.15,
+          "odds_type": "positive",
+          "collect_time": "2026-02-28T22:53:36.526221Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
