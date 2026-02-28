@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-01T03:38:37+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26031",
+  "records": [
+    {
+      "game_id": 260,
+      "period_no": "26031",
+      "match_no": "62",
+      "home_team": "汉堡",
+      "away_team": "RB莱比锡",
+      "league_name": "25-26德甲",
+      "match_time": "2026-03-01T10:00:00Z",
+      "end_time": "2026-03-02T02:25:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-01T03:38:37.852192954+08:00",
+      "odds": [
+        {
+          "option_key": "0:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:29:44.411152Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:29:44.411152Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-02-27T12:29:44.411152Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
