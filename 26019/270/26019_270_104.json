@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-03-01T11:23:53+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26019",
+  "records": [
+    {
+      "game_id": 270,
+      "period_no": "26019",
+      "match_no": "104",
+      "home_team": "明尼苏达狂野",
+      "away_team": "芝加哥黑鹰",
+      "league_name": "25-26美职冰",
+      "match_time": "2026-01-27T10:00:00Z",
+      "end_time": "2026-01-28T06:00:00Z",
+      "handicap": "-1.5",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T11:23:53.691429961+08:00",
+      "odds": [
+        {
+          "option_key": "胜",
+          "odds_value": 2.34,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.74,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.32,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T09:44:04.635887Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.75,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T09:44:04.635887Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": -1.802845,
+          "odds_type": "negative",
+          "collect_time": "2026-01-30T10:54:05.061419Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
