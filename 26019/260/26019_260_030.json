@@ -1,0 +1,545 @@
+{
+  "generated_at": "2026-03-01T11:16:33+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26019",
+  "records": [
+    {
+      "game_id": 260,
+      "period_no": "26019",
+      "match_no": "30",
+      "home_team": "诺丁汉森林",
+      "away_team": "费伦茨瓦罗斯",
+      "league_name": "欧罗巴联赛",
+      "match_time": "2026-01-29T10:00:00Z",
+      "end_time": "2026-01-30T03:55:00Z",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T11:16:33.963824216+08:00",
+      "odds": [
+        {
+          "option_key": "1:1",
+          "odds_value": 1,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.881085Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 13,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T14:20:04.755727Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 13,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T14:20:04.755727Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 1.3,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T14:20:04.755727Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 13,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T14:20:04.755727Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 16,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 1.6,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 16,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 16,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 16,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 16,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 16,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T16:30:04.7217Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 10,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 10,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 10,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T17:00:04.702028Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 10.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 21,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 10.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 2.1,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 21,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 21,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 21,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 10.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 21,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T19:12:04.740967Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 22,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 22,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": 22,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 11,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 11,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 11,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 22,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 22,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 22,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 2.2,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:32:04.7285Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 24,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 24,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 24,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 24,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 6,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": 24,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 12,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 2.4,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 24,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 12,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T20:34:04.741924Z"
+        },
+        {
+          "option_key": "2:1",
+          "odds_value": 27,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 27,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 13.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 13.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": 13.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 27,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 2.7,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 27,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 13.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 6.75,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 27,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:08:04.590435Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 15.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 10.33,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 7.75,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 15.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 31,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 10.33,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 3.1,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 15.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 31,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": 15.5,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "2:1",
+          "odds_value": 31,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T23:10:04.724215Z"
+        },
+        {
+          "option_key": "1:2",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 10,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "0:4",
+          "odds_value": 40,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "1:1",
+          "odds_value": 4,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": 13.33,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "3:1",
+          "odds_value": 40,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "0:3",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "0:2",
+          "odds_value": 10,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 10,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "2:1",
+          "odds_value": 20,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "3:2",
+          "odds_value": 40,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 13.33,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "2:2",
+          "odds_value": 40,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "3:0",
+          "odds_value": 40,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "1:3",
+          "odds_value": 40,
+          "odds_type": "positive",
+          "collect_time": "2026-01-30T02:04:04.693784Z"
+        },
+        {
+          "option_key": "2:0",
+          "odds_value": -13.333333,
+          "odds_type": "negative",
+          "collect_time": "2026-01-30T09:20:04.685109Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
