@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-03-01T11:21:41+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26019",
+  "records": [
+    {
+      "game_id": 270,
+      "period_no": "26019",
+      "match_no": "93",
+      "home_team": "阿尔卡拉斯",
+      "away_team": "德米纳尔",
+      "league_name": "澳网男单",
+      "match_time": "2026-01-27T10:00:00Z",
+      "end_time": "2026-01-27T16:25:00Z",
+      "handicap": "-2.5",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T11:21:41.329907043+08:00",
+      "odds": [
+        {
+          "option_key": "胜",
+          "odds_value": 2.13,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.87,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.21,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T09:44:04.635887Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.82,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T09:44:04.635887Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": -2.666914,
+          "odds_type": "negative",
+          "collect_time": "2026-01-30T10:54:05.061419Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
