@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-01T11:20:26+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26019",
+  "records": [
+    {
+      "game_id": 270,
+      "period_no": "26019",
+      "match_no": "96",
+      "home_team": "多伦多枫叶",
+      "away_team": "布法罗军刀",
+      "league_name": "25-26美职冰",
+      "match_time": "2026-01-27T10:00:00Z",
+      "end_time": "2026-01-28T06:00:00Z",
+      "handicap": "-0.5",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T11:20:26.065915452+08:00",
+      "odds": [
+        {
+          "option_key": "胜",
+          "odds_value": 4.26,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.3,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": -1.292265,
+          "odds_type": "negative",
+          "collect_time": "2026-01-30T10:54:05.061419Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
