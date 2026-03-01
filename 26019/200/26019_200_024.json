@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-01T10:51:14+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26019",
+  "records": [
+    {
+      "game_id": 200,
+      "period_no": "26019",
+      "match_no": "24",
+      "home_team": "切尔滕汉姆",
+      "away_team": "吉林汉姆",
+      "league_name": "25-26英乙",
+      "match_time": "2026-01-27T10:00:00Z",
+      "end_time": "2026-01-28T03:40:00Z",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T10:51:14.721348408+08:00",
+      "odds": [
+        {
+          "option_key": "0",
+          "odds_value": -1,
+          "odds_type": "negative",
+          "collect_time": "2026-01-29T00:27:59.821891Z"
+        },
+        {
+          "option_key": "1",
+          "odds_value": -1,
+          "odds_type": "negative",
+          "collect_time": "2026-01-29T00:27:59.821891Z"
+        },
+        {
+          "option_key": "3",
+          "odds_value": -1,
+          "odds_type": "negative",
+          "collect_time": "2026-01-29T00:27:59.821891Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
