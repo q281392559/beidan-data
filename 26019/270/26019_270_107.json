@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-03-01T11:22:28+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26019",
+  "records": [
+    {
+      "game_id": 270,
+      "period_no": "26019",
+      "match_no": "107",
+      "home_team": "犹他爵士",
+      "away_team": "洛杉矶快船",
+      "league_name": "美职篮",
+      "match_time": "2026-01-28T10:00:00Z",
+      "end_time": "2026-01-28T10:55:00Z",
+      "handicap": "10.5",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-01T11:22:28.15245115+08:00",
+      "odds": [
+        {
+          "option_key": "负",
+          "odds_value": 2.59,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.62,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T00:27:59.828637Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.58,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T09:44:04.635887Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2.71,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T09:44:04.635887Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.58,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T11:24:04.604997Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2.72,
+          "odds_type": "positive",
+          "collect_time": "2026-01-29T11:24:04.604997Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": -2.996943,
+          "odds_type": "negative",
+          "collect_time": "2026-01-30T10:54:05.061419Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
