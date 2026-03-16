@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-16T11:15:19+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26035",
+  "records": [
+    {
+      "game_id": 210,
+      "period_no": "26035",
+      "match_no": "358",
+      "home_team": "戈尔韦联",
+      "away_team": "沃特福德FC",
+      "league_name": "爱超",
+      "match_time": "2026-03-16T10:00:00Z",
+      "end_time": "2026-03-17T03:55:00Z",
+      "handicap": "0",
+      "sale_status": "销售中",
+      "collect_time": "2026-03-16T11:15:19.813148373+08:00",
+      "odds": [
+        {
+          "option_key": "下单",
+          "odds_value": 1,
+          "odds_type": "positive",
+          "collect_time": "2026-03-16T10:26:07.690402Z"
+        },
+        {
+          "option_key": "下单",
+          "odds_value": 1.26,
+          "odds_type": "positive",
+          "collect_time": "2026-03-16T11:06:37.587048Z"
+        },
+        {
+          "option_key": "下双",
+          "odds_value": 4.75,
+          "odds_type": "positive",
+          "collect_time": "2026-03-16T11:06:37.587048Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
