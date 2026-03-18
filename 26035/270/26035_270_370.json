@@ -1,0 +1,665 @@
+{
+  "generated_at": "2026-03-19T06:02:28+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26035",
+  "records": [
+    {
+      "game_id": 270,
+      "period_no": "26035",
+      "match_no": "370",
+      "home_team": "新泽西魔鬼",
+      "away_team": "洛杉矶国王",
+      "league_name": "25-26美职冰",
+      "match_time": "2026-03-14T10:00:00Z",
+      "end_time": "2026-03-15T06:00:00Z",
+      "handicap": "-0.5",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-19T06:02:28.304033134+08:00",
+      "odds": [
+        {
+          "option_key": "负",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T10:28:07.623966Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T10:28:07.623966Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T10:36:37.567974Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.99,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T10:36:37.567974Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.13,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:24:37.64266Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.88,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:24:37.64266Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:36:37.738217Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:36:37.738217Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.99,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:46:07.62889Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:46:07.62889Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2.05,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T13:52:07.558644Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.95,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T13:52:07.558644Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:06:37.661162Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:06:37.661162Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.99,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:18:37.558028Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:18:37.558028Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.04,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:46:07.651435Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.95,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:46:07.651435Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:56:07.606517Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T14:56:07.606517Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T16:26:07.591768Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T16:26:07.591768Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.98,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T17:52:07.896671Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.01,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T17:52:07.896671Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T18:14:07.633701Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T18:14:07.633701Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.96,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T18:42:37.788443Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T18:42:37.788443Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.94,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T18:44:07.579395Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.06,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T18:44:07.579395Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.94,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T19:58:07.546908Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.05,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T19:58:07.546908Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.04,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T20:04:07.603921Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.95,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T20:04:07.603921Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T20:12:37.590047Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.96,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T20:12:37.590047Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T20:14:07.526011Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T20:14:07.526011Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T21:10:07.531683Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T21:10:07.531683Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T21:28:07.591865Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T21:28:07.591865Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:14:07.617125Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.96,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:14:07.617125Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:18:37.527455Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.02,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:18:37.527455Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:26:07.618122Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.96,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:26:07.618122Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:58:07.576734Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.97,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T22:58:07.576734Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.04,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:06:37.676829Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.95,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:06:37.676829Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.06,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:22:07.671719Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.94,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:22:07.671719Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.94,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:30:37.680203Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.05,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:30:37.680203Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.93,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:38:07.645905Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.06,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:38:07.645905Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.16,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:56:07.618544Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.85,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:56:07.618544Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.83,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:58:07.673321Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.19,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T23:58:07.673321Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.83,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T00:06:37.615011Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T00:06:37.615011Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.83,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:08:07.643927Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.19,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:08:07.643927Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.82,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:10:07.629803Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:10:07.629803Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.82,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:16:07.607593Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.21,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:16:07.607593Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:36:37.558994Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.82,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:36:37.558994Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.18,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:44:07.584182Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.84,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:44:07.584182Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.2,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:56:07.546617Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.82,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:56:07.546617Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.82,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:58:07.59335Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.21,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T01:58:07.59335Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.8,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:00:37.637109Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.23,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:00:37.637109Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.26,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:04:07.599268Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.78,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:04:07.599268Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.78,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:40:07.64715Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.27,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:40:07.64715Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.28,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:42:37.60761Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.78,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:42:37.60761Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.28,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:46:07.677963Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.77,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T02:46:07.677963Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.86,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T03:32:07.63501Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.16,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T03:32:07.63501Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.94,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T03:34:07.662474Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.05,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T03:34:07.662474Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.04,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T03:56:07.581325Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.95,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T03:56:07.581325Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.95,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T04:14:07.566669Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.05,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T04:14:07.566669Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.07,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T04:34:07.541777Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.92,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T04:34:07.541777Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.07,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T05:46:07.601613Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.93,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T05:46:07.601613Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 1.94,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T09:38:07.690798Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 2.05,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T09:38:07.690798Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.96,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T21:32:07.62676Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.03,
+          "odds_type": "positive",
+          "collect_time": "2026-03-15T21:32:07.62676Z"
+        },
+        {
+          "option_key": "负",
+          "odds_value": 1.87,
+          "odds_type": "positive",
+          "collect_time": "2026-03-16T10:04:07.660417Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": 2.13,
+          "odds_type": "positive",
+          "collect_time": "2026-03-16T10:04:07.660417Z"
+        },
+        {
+          "option_key": "胜",
+          "odds_value": -2.933872,
+          "odds_type": "negative",
+          "collect_time": "2026-03-17T10:02:05.163633Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
