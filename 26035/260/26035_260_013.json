@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-03-19T05:59:34+08:00",
+  "source": "北单彩票数据",
+  "period_no": "26035",
+  "records": [
+    {
+      "game_id": 260,
+      "period_no": "26035",
+      "match_no": "13",
+      "home_team": "京都不死鸟",
+      "away_team": "大阪樱花",
+      "league_name": "J1联赛",
+      "match_time": "2026-03-14T10:00:00Z",
+      "end_time": "2026-03-14T12:55:00Z",
+      "handicap": "0",
+      "sale_status": "已开奖",
+      "collect_time": "2026-03-19T05:59:34.246158693+08:00",
+      "odds": [
+        {
+          "option_key": "0:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-03-13T16:02:07.479112Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-03-13T16:02:07.479112Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 3,
+          "odds_type": "positive",
+          "collect_time": "2026-03-13T16:02:07.479112Z"
+        },
+        {
+          "option_key": "0:0",
+          "odds_value": 3.4,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:36:37.536881Z"
+        },
+        {
+          "option_key": "0:1",
+          "odds_value": 2.83,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:36:37.536881Z"
+        },
+        {
+          "option_key": "1:0",
+          "odds_value": 2.83,
+          "odds_type": "positive",
+          "collect_time": "2026-03-14T11:36:37.536881Z"
+        }
+      ]
+    }
+  ],
+  "total_count": 1
+}
